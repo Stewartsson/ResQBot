@@ -43,11 +43,12 @@
 
 ## 👨‍💻 Team Mech-X
 This project was developed collaboratively by:
-* **John Stewartsson J R** - Hardware Engineering & Systems Integration
-* **[Friend 1 Name]** - [Their Role, e.g., Embedded C++ Developer]
-* **[Friend 2 Name]** - [Their Role, e.g., IoT & Network Config]
-* **[Friend 3 Name]** - [Their Role, e.g., Sensor Calibration]
-* **[Friend 4 Name]** - [Their Role, e.g., Mechanical Assembly]
+* **Jeffisha A** 
+* **John Stewartsson J R** 
+* **Joshua Miracle J**
+* **Mahalakshmi P** 
+* **Namith S P** 
+* **Narmatha Kavi S C** 
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
