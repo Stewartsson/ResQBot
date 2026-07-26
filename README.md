@@ -48,7 +48,7 @@ This project was developed collaboratively by:
 * **Joshua Miracle J**
 * **Mahalakshmi P** 
 * **Namith S P** 
-* **Narmatha Kavi S C** 
+* **Narmatha Kavi C S** 
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
