@@ -41,7 +41,7 @@
 5. On your smartphone, connect to the Wi-Fi network: **`ResQBot_Emergency`** (Password: `rescue1234`).
 6. Open a web browser and navigate to **`192.168.4.1`** to view the live dashboard.
 
-## 👨‍💻 Team Mech-X
+## 👨‍💻 Team IntelliX Titans 
 This project was developed collaboratively by:
 * **Jeffisha A** 
 * **John Stewartsson J R** 
